@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: /tags/*
 
-Sitemap: https://khipu-utec.github.io/docs/sitemap.xml
+Sitemap: https://khipu-utec.github.io/sitemap.xml
